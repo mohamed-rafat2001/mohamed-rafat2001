@@ -4,7 +4,7 @@ I am a passionate Full Stack Developer specializing in building scalable web app
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-mohamed--rafat2001-181717?style=flat-square&logo=github)](https://github.com/mohamed-rafat2001)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin-url) <!-- Replace with your actual LinkedIn URL -->
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:your-email@example.com) <!-- Replace with your actual Email -->
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:mohamed20rafat@gmail.com) <!-- Replace with your actual Email -->
 
 ---
 
