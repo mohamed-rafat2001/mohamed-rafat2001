@@ -49,11 +49,27 @@ I am a passionate Full Stack Developer specializing in building scalable web app
 ## 📂 Recent Projects
 
 ### [E-Commerce Platform](https://github.com/mohamed-rafat2001/E-Commerce)
+
 A full-featured E-Commerce application built with the MERN stack.
+
 - **Features:** User Authentication, Product Management, Order System, Admin Dashboard.
 - **Tech:** React, Redux, Node.js, Express, MongoDB.
 
-<!-- Add more projects here as needed -->
+### [Smart Farm IoT System](https://github.com/mohamed-rafat2001/Smart-Farm-IOT-Management-System)
+
+A comprehensive IoT management system for smart farming with real-time monitoring.
+
+- **Features:** Real-time Analytics, Device Management, Farm Management, Secure Auth.
+- **Tech:** React, Node.js, Express, MongoDB, Tailwind CSS.
+
+### [Social App](https://github.com/mohamed-rafat2001/social-app)
+
+A social networking platform for users to connect and share updates.
+
+- **Features:** User Profiles, News Feed, Interactions (Likes/Comments).
+- **Tech:** MERN Stack.
+  
+ <!-- Add more projects here as needed -->
 
 ---
 
