@@ -46,12 +46,24 @@ I am a results-driven **Full Stack Developer** specializing in the **MERN stack*
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-rafat2001&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Mohamed's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-rafat2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" height="180px" />
+  <a href="https://github.com/mohamed-rafat2001">
+    <img src="https://github-profile-trophy.vercel.app/?username=mohamed-rafat2001&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/mohamed-rafat2001">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohamed-rafat2001&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Mohamed's GitHub stats" height="180px" />
+  </a>
+  <a href="https://github.com/mohamed-rafat2001">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-rafat2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" height="180px" />
+  </a>
+</div>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-rafat2001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/mohamed-rafat2001">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-rafat2001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
