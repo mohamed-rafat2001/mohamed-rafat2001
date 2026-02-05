@@ -48,7 +48,7 @@ I am a results-driven **Full Stack Developer** specializing in the **MERN stack*
 
 <p align="center">
   <a href="https://github.com/mohamed-rafat2001">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohamed-rafat2001&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mohamed-rafat2001&theme=tokyonight" alt="GitHub Trophies" />
   </a>
 </p>
 
