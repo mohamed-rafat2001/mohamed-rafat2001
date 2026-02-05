@@ -48,12 +48,6 @@ I am a results-driven **Full Stack Developer** specializing in the **MERN stack*
 
 <p align="center">
   <a href="https://github.com/mohamed-rafat2001">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohamed-rafat2001&theme=tokyonight" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mohamed-rafat2001">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamed-rafat2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohamed's GitHub stats" height="180" />
   </a>
   <a href="https://github.com/mohamed-rafat2001">
@@ -65,6 +59,7 @@ I am a results-driven **Full Stack Developer** specializing in the **MERN stack*
   <a href="https://github.com/mohamed-rafat2001">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-rafat2001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamed-rafat2001&theme=tokyonight" alt="Most Commit Languages" height="180" />
 </p>
 
 ---
