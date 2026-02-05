@@ -1,8 +1,9 @@
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-  <h1>Hi there! I'm Mohamed Rafat</h1>
-  <h3>Full Stack Web & Mobile Developer | OutSystems Specialist</h3>
-</div>
+</p>
+
+# <p align="center">Hi there! I'm Mohamed Rafat</p>
+### <p align="center">Full Stack Web & Mobile Developer | OutSystems Specialist</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Passionate+Problem+Solver;Turning+Coffee+into+Code" alt="Typing SVG" />
@@ -51,14 +52,14 @@ I am a results-driven **Full Stack Developer** specializing in the **MERN stack*
   </a>
 </p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/mohamed-rafat2001">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohamed-rafat2001&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Mohamed's GitHub stats" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mohamed-rafat2001&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohamed's GitHub stats" />
   </a>
   <a href="https://github.com/mohamed-rafat2001">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-rafat2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-rafat2001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   </a>
-</div>
+</p>
 
 <p align="center">
   <a href="https://github.com/mohamed-rafat2001">
@@ -86,6 +87,18 @@ I am a results-driven **Full Stack Developer** specializing in the **MERN stack*
 **Scalable social platform for community interaction.**
 - **Core Features:** Real-time updates for posts, comments, and likes.
 - **User Experience:** Smooth navigation and interactive UI elements using modern React patterns.
+
+#### 🧠 [Quiz App](https://github.com/mohamed-rafat2001/quiz-app)
+**Full-stack MERN quiz platform with advanced Role-Based Access Control.**
+- **RBAC:** Tailored experiences for Admins, Teachers (quiz creation/monitoring), and Students (interactive taking/progress tracking).
+- **Features:** Dynamic quiz generation, real-time feedback, and detailed performance analytics dashboards.
+- **Security:** Robust protection with JWT, rate limiting, and comprehensive data sanitization.
+
+#### 👤 [Professional Portfolio](https://github.com/mohamed-rafat2001/Portfolio-project)
+**High-performance full-stack portfolio with integrated management system.**
+- **Modern Stack:** Built with React 19 and Tailwind CSS 4 for a cutting-edge, responsive user experience.
+- **Admin Panel:** Secure dashboard for real-time management of projects, skills, and contact inquiries.
+- **Cloud Services:** Seamless Cloudinary integration for media assets and Nodemailer for automated notifications.
 
 ---
 
