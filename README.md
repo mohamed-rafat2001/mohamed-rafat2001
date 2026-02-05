@@ -20,12 +20,12 @@
 
 ### 🚀 About Me
 
-I am a results-driven **Full Stack Developer** specializing in the **MERN stack**. My expertise lies in building scalable, high-performance web applications with a focus on clean architecture, intuitive user experiences, and robust backend systems.
+I am a dedicated Full Stack Developer with a deep passion for creating seamless digital experiences. My journey began with a curiosity for how things work on the web, which quickly evolved into a career building robust applications. With a strong foundation in both frontend and backend technologies, I enjoy bridging the gap between design and technical implementation. I thrive in collaborative environments where I can solve complex problems and contribute to innovative solutions.
 
 - 🔭 **Currently focused on**: Advanced Microservices and E-Commerce System Architecture.
 - 🌱 **Learning**: Cloud Computing (AWS/Azure) and System Design Patterns.
 - 👯 **Open to**: Collaborating on innovative Open Source projects and complex web solutions.
-- 💬 **Ask me about**: React, Node.js, Express, MongoDB, and modern web development workflows.
+- 💬 **Ask me about**: React, Node.js, Express, MongoDB, React Native (Mobile Developer), OutSystems (Reactive Web & Mobile Apps), and modern web development workflows.
 
 ---
 
@@ -36,9 +36,10 @@ I am a results-driven **Full Stack Developer** specializing in the **MERN stack*
 | **Frontend** | **Backend** | **Database & Cloud** | **Tools** |
 | :--- | :--- | :--- | :--- |
 | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /> | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" /> | <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" /> | <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" /> | <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" /> | <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" /> | <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" /> | <img src="https://img.shields.io/badge/Nodemailer-339933?style=flat-square&logo=gmail&logoColor=white" /> | <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white" /> | <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" /> | <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" /> | <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" /> | <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" /> | <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" /> | <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/Nodemailer-339933?style=flat-square&logo=gmail&logoColor=white" /> | <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white" /> | <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/OutSystems-red?style=flat-square&logo=outsystems&logoColor=white" /> | <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" /> | | |
 
 </div>
 
