@@ -77,24 +77,24 @@ I am a dedicated Full Stack Developer with a deep passion for creating seamless 
 - **Highlights:** Secure JWT-based multi-role authentication (Admin, Seller, Customer), complex product management with Cloudinary integration, and a responsive UI powered by Framer Motion.
 - **Optimization:** Optimized API performance with efficient MongoDB indexing and Redux state management.
 
-#### 🚜 [Smart Farm IoT System](https://github.com/mohamed-rafat2001/Smart-Farm-IOT-Management-System)
+#### 🚜 [Smart Farm IoT System](https://smart-farm-client-v1.vercel.app)
 **Real-time IoT monitoring and management platform.**
 - **Functionality:** Centralized dashboard for monitoring soil moisture, temperature, and automated irrigation control.
 - **Security:** Role-based access control for farm managers and workers.
 - **Visualization:** Integrated dynamic charts for historical data analysis.
 
-#### 🤝 [Social Networking App](https://github.com/mohamed-rafat2001/social-app)
+#### 🤝 [Social Networking App](https://social-networking-app.netlify.app)
 **Scalable social platform for community interaction.**
 - **Core Features:** Real-time updates for posts, comments, and likes.
 - **User Experience:** Smooth navigation and interactive UI elements using modern React patterns.
 
-#### 🧠 [Quiz App](https://github.com/mohamed-rafat2001/quiz-app)
+#### 🧠 [Quiz App](https://quiz-master-app-v1.netlify.app)
 **Full-stack MERN quiz platform with advanced Role-Based Access Control.**
 - **RBAC:** Tailored experiences for Admins, Teachers (quiz creation/monitoring), and Students (interactive taking/progress tracking).
 - **Features:** Dynamic quiz generation, real-time feedback, and detailed performance analytics dashboards.
 - **Security:** Robust protection with JWT, rate limiting, and comprehensive data sanitization.
 
-#### 👤 [Professional Portfolio](https://github.com/mohamed-rafat2001/Portfolio-project)
+#### 👤 [Professional Portfolio](https://mohamed-rafat-portfolio.netlify.app)
 **High-performance full-stack portfolio with integrated management system.**
 - **Modern Stack:** Built with React 19 and Tailwind CSS 4 for a cutting-edge, responsive user experience.
 - **Admin Panel:** Secure dashboard for real-time management of projects, skills, and contact inquiries.
